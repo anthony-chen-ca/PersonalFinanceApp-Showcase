@@ -12,7 +12,7 @@ Built as a modern replacement for the personal-finance workflows I previously re
 
 ## Demo
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 The dashboard combines account balances, net worth, monthly spending, income, cash flow, budget progress, historical trends, and recent transactions into a single financial overview.
 
@@ -44,7 +44,7 @@ The dashboard combines account balances, net worth, monthly spending, income, ca
 
 Manage connected financial accounts, balances, institution data, visibility settings, and synchronization.
 
-![Accounts](assets/accounts.png)
+![Accounts](assets/Accounts.png)
 
 ---
 
@@ -52,7 +52,7 @@ Manage connected financial accounts, balances, institution data, visibility sett
 
 Browse and manage transaction history with filtering, searching, categorization, merchant normalization, tags, notes, and budget controls.
 
-![Transactions](assets/transactions.png)
+![Transactions](assets/Transactions.png)
 
 ---
 
@@ -71,7 +71,7 @@ Explore financial trends across configurable date ranges, including:
 - Top merchants
 - Largest transactions
 
-![Analytics](assets/analytics.png)
+![Analytics](assets/Analytics.png)
 
 ---
 
@@ -79,7 +79,7 @@ Explore financial trends across configurable date ranges, including:
 
 Create monthly category budgets and monitor spending, remaining allowance, utilization, and over-budget status.
 
-![Budgets](assets/budgets.png)
+![Budgets](assets/Budgets.png)
 
 ---
 
@@ -96,7 +96,7 @@ Merchant management supports:
 - Transaction reassignment
 - Cleanup suggestions
 
-![Merchants](assets/merchants.png)
+![Merchants](assets/Merchants.png)
 
 ---
 
@@ -106,7 +106,7 @@ Organize spending using custom categories and higher-level category groups.
 
 Categories can include names, emojis, hierarchy, budgeting behavior, and transaction rules.
 
-![Categories](assets/categories.png)
+![Categories](assets/Categories.png)
 
 ---
 
@@ -116,7 +116,7 @@ Add flexible metadata to transactions independently of their primary financial c
 
 Tags make it possible to track cross-category concepts such as trips, events, reimbursements, projects, or other personal groupings.
 
-![Tags](assets/tags.png)
+![Tags](assets/Tags.png)
 
 ---
 
@@ -140,7 +140,7 @@ Current investment functionality includes:
 - Purchases and sales
 - Transfers and fees
 
-![Investments](assets/investments.png)
+![Investments](assets/Investments.png)
 
 ---
 
@@ -148,7 +148,7 @@ Current investment functionality includes:
 
 Configure application behavior, financial integrations, reporting preferences, imports, and optional external services.
 
-![Settings](assets/settings.png)
+![Settings](assets/Settings.png)
 
 ---
 
